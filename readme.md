@@ -86,6 +86,6 @@ This project is for educational and research purposes.
 - **Main App:** Abdelrahman Salah (reviewed and enhanced by Moaz Hany)
 - **Preprocessing:** Moaz Hany
 - **Visualization:** Abdelrahman Salah
-- **Modeling:** Hagar Mostafa, Nour Mohammed, Moaz Hany, Ammar Amgad
+- **Modeling:** Hagar Mostafa, Nour Mohammed, Ammar Amgad
 
 For questions or suggestions, please contact me at [moaz.h.sabry@gmail.com]

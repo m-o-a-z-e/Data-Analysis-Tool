@@ -65,7 +65,7 @@ A professional, modular Streamlit application for end-to-end data analysis, prep
 
 ## Screenshots
 
-> _Add screenshots of the application here to showcase the interface and features._
+[https://github.com/m-o-a-z-e/Data-Analysis-Tool/blob/main/image.png]
 
 ---
 

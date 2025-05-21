@@ -88,4 +88,4 @@ This project is for educational and research purposes.
 - **Visualization:** Abdelrahman Salah
 - **Modeling:** Hagar Mostafa, Nour Mohammed, Moaz Hany, Ammar Amgad
 
-For questions or suggestions, please open an issue or contact the maintainers.
+For questions or suggestions, please contact me at [moaz.h.sabry@gmail.com]
